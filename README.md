@@ -21,3 +21,5 @@ Clone the repository: git clone https://github.com/adityav1810/srgan.git
 Navigate to the project directory: cd srgan
 Train the SRGAN model using the provided dataset and configurations using SRGAN.ipynb
 
+## Citation
+Built on top of the wonderful resources provided by : https://github.com/aladdinpersson
