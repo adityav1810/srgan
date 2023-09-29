@@ -17,7 +17,7 @@ Perceptual Loss: Utilized to capture high-level features, enhancing perceptual f
 Adversarial Loss: Introduced to ensure generated images are realistic and match the distribution of real images.
 Content Loss: Incorporated to maintain the content similarity between high-resolution and super-resolved images.
 ## Usage
-Clone the repository: git clone https://github.com/your-username/SuperVision.git
-Navigate to the project directory: cd SuperVision
-Train the SRGAN model using the provided dataset and configurations: python train.py
-Evaluate the trained model by upscaling images: python evaluate.py --image_path path_to_image
+Clone the repository: git clone https://github.com/adityav1810/srgan.git
+Navigate to the project directory: cd srgan
+Train the SRGAN model using the provided dataset and configurations using SRGAN.ipynb
+
